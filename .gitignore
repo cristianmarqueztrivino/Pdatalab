@@ -1,0 +1,13 @@
+# Archivos grandes
+*.geojson
+*.csv
+*.ipynb
+
+# Data original
+data/20240913_Matrícula_unica_2024_20240430_WEB.CSV
+data/Reg_Chile.geojson
+data/Regional.*
+
+# Backup files
+*.backup
+*_original.*
